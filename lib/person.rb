@@ -1,7 +1,7 @@
 # person.rb
 class Person 
   
-  def 
+  def person
   
 end 
 
